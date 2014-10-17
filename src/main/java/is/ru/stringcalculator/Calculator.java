@@ -1,5 +1,5 @@
 package is.ru.stringcalculator;
-
+//Hér fer inn kóði
 public class Calculator {
 
 	public static int add(String text){
